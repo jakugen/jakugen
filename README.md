@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gennadi Jakutin
 - 👀 I’m interested in building stuff
-- 🌱 I’m currently learning [rust-lang](https://github.com/rust-lang/rust) 
+- 🌱 I’m currently learning [rust-lang](https://github.com/rust-lang/rust) and [blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 - 💞️ I’m looking to collaborate on anything useful
 - 📫 Reach me on gmail (name dot surname)
 
