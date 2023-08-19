@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gennadi Jakutin
-- 👀 I’m interested in building stuff
-- 🌱 I’m currently learning [rust-lang](https://github.com/rust-lang/rust) and [blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-- 💞️ I’m looking to collaborate on anything useful
+- 👀 I’m interested in building stuff and collaborate on anything useful
+- 🌱 Currently learning [rust-lang](https://github.com/rust-lang/rust) and [blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 - 📫 Reach me on gmail (name dot surname)
 - ✍️ Some of my thoughts are captured here [https://jakugen.ukwest.cloudapp.azure.com](https://jakugen.ukwest.cloudapp.azure.com)
 
