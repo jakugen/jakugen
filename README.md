@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gennadi Jakutin
 - 👀 I’m interested in programming languages and recent AI advancements
 - 🌱 Currently learning [rust-lang](https://github.com/rust-lang/rust) and [blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
-- 📫 Reach me at proton (name dot surname)
+- 📫 Reach me at gmail (name dot surname)
 - ✍️ Some of my thoughts are captured here [https://gennadijakutin.me](https://gennadijakutin.me)
 
 
