@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages and recent AI advancements
 - 🌱 Currently getting accustomed to [rust-lang](https://github.com/rust-lang/rust) and [blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)
 - 📫 Reach me at gmail (name dot surname)
-- ✍️ Some of my thoughts are captured here [https://jakugen.github.io](https://gennadijakutin.me)
+- ✍️ Some of my thoughts are captured here [https://gennadijakutin.me](https://gennadijakutin.me)
 
 
 <!---
